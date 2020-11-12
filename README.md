@@ -11,7 +11,7 @@ Entity Device has 3 fields
 
 Serial Number and Machine code together make composite key.
 
-Serial Number has regex validation [A-Ba-b0-9]*-[A-Ba-b0-9]* .
+Serial Number has regex validation <pre>[A-Ba-b0-9]\*-[A-Ba-b0-9]\*</pre> .
 
 Machine Code cannot be blank. 
 
