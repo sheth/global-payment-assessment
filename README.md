@@ -15,3 +15,6 @@ Serial Number has regex validation [A-Ba-b0-9]*-[A-Ba-b0-9]* .
 
 Machine Code cannot be blank. 
 
+The Postman collection to drive the REST API is at 
+https://www.getpostman.com/collections/2f34aa74cb66d983d89f
+ 
